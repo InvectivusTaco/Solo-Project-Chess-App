@@ -1,5 +1,5 @@
 # Solo-Project-Chess-App
-Using JS, React-Redux, Node, and Express /\\/ Socket.io will now be a strech feature /\\/ 
+Using JS, React, Node, and Express /\\/ Socket.io will now be a strech feature /\\/ 
 
 This is a Solo Project for Codesmith
 
@@ -18,7 +18,7 @@ Server-Side-Rendering -> Modern React(18) -> state to manage Dynamic rendering -
 
 7. What are the tough technical challenges involved with solving this problem?
 webpack took me almsot all day to configure,
-in the process i soon learned of my "real" focus which was using an SSR to enable me to..
+in the process i soon learned of my "real" focus which was using an SSR hybrid to enable me to..
 A. target my goals, 
 B. handle React, 
 C. configure Webpack more easily
